@@ -1,0 +1,8 @@
+TgCrypto>=1.1.1
+pyrogram
+apscheduler
+bp4
+aiohttp
+cchardet
+aiodns
+pickle
